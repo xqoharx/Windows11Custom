@@ -5,3 +5,4 @@ dan kalian bisa copy paste direcly ke game location kalian.
 untuk cara yang ke 2 kalian bisa copy gamingtcui.all ke C:\Windows\System32 kemudin buka powershell with admin dan paste command ini
 regscr32 gamingtcui.dll
 setelah itu bisa restart dan coba lagi game kalian.
+
