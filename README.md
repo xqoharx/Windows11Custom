@@ -1,5 +1,4 @@
 # Windows11Custom
-
 Disni saya share untuk import file dari NTLite jika kalian butuh
 Untuk yang game kalian butuh gamingtcui.dll untuk running seperti forza horizon 5 saya siapkan dll atau kalian bisa download dll di https://www.dll-files.com/gamingtcui.dll.html
 dan kalian bisa copy paste direcly ke game location kalian.
